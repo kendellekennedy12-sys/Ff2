@@ -9,12 +9,12 @@ local LocalPlayer = Players.LocalPlayer
 local CONFIG = {
     Version = "1.3.0",
 
-    VersionURL = "https://raw.githubusercontent.com/YOURNAME/phantomhub/main/version.txt",
-    KeyURL = "https://raw.githubusercontent.com/YOURNAME/phantomhub/main/keys.txt",
-    MainURL = "https://raw.githubusercontent.com/YOURNAME/phantomhub/main/main.lua",
+    VersionURL = "https://raw.githubusercontent.com/kendellekennedy12-sys/phantomhub/main/version.txt",
+    KeyURL = "https://raw.githubusercontent.com/kendellekennedy12-sys/phantomhub/main/keys.txt",
+    MainURL = "https://raw.githubusercontent.com/kendellekennedy12-sys/phantomhub/main/main.lua",
 
     AllowedGames = {
-        [PLACEID_HERE] = true, -- add more if needed
+        [8204899140] = true, -- add more if needed
     }
 }
 
