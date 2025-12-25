@@ -9,10 +9,10 @@ local CONFIG = {
     Version = "1.3.0",
     VersionURL = "RAW_version.txt",
     KeyURL = "https://raw.githubusercontent.com/kendellekennedy12-sys/Ff2/refs/heads/main/Keys.txt",
-    MainURL = "RAW_main.enc",
+    MainURL = "https://raw.githubusercontent.com/kendellekennedy12-sys/Ff2/refs/heads/main/Main.enc",
 
     AllowedGames = {
-        [PLACEID_HERE] = true
+        [8204899140] = true
     }
 }
 
