@@ -8,7 +8,7 @@ local LocalPlayer = Players.LocalPlayer
 local CONFIG = {
     Version = "1.3.0",
     VersionURL = "RAW_version.txt",
-    KeyURL = "RAW_keys.txt",
+    KeyURL = "https://raw.githubusercontent.com/kendellekennedy12-sys/Ff2/refs/heads/main/Keys.txt",
     MainURL = "RAW_main.enc",
 
     AllowedGames = {
